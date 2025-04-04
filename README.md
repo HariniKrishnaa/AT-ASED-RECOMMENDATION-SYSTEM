@@ -69,3 +69,9 @@ Evaluation was performed using metrics like Mean Squared Error (MSE) and precisi
 The model was integrated into a Java application with a simple UI or API.
 
 The system was tested with different user inputs to validate recommendations.
+
+OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/53fd8c9a-c4f8-4f56-8959-8db49bbcc753)
+
+![Image](https://github.com/user-attachments/assets/dd89133b-3b35-441b-8978-3cfe819c5cf7)
